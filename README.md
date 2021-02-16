@@ -206,3 +206,56 @@ Discover how CNNs can be applied to multiple fields, including art generation an
 - <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w4-%20Face%20Verification%20%26Recognition/Face_Recognition_v3a.ipynb">Face Recognition , Face Verification</a>
 - <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w4-Art%20Generation%20with%20Neural%20network/Art_Generation_with_Neural_Style_Transfer_v3a%20(1).ipynb">Deep Learning & Art: Neural Style Transfer</a>
 
+# Course 5: Sequence Models
+
+## Week 1: Recurrent Neural Networks
+Learn about recurrent neural networks. This type of model has been proven to perform extremely well on temporal data. It has several variants including LSTMs, GRUs and Bidirectional RNNs, which you are going to learn about in this section.
+
+- Why sequence models
+- Notation
+- Recurrent Neural Network Model
+- Backpropagation through time
+- Different types of RNNs
+- Language model and sequence generation
+- Sampling novel sequences
+- Vanishing gradients with RNNs
+- Gated Recurrent Unit (GRU)
+- Long Short Term Memory (LSTM)
+- Bidirectional RNN
+- Deep RNNs5
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb">Gradient Checking  from scratch </a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Initialization/Initialization.ipynb"> Initialization (different types) of Neural Network from scratch </a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Regularization/Regularization_v2a.ipynb"> 
+Regularization different types) of Neural Network from scratch</a>
+
+## Week 2:Natural Language Processing & Word Embeddings
+Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
+
+- Word Representation
+- Using word embeddings
+- Properties of word embeddings
+- Embedding matrix
+- Learning word embeddings
+- Word2Vec
+- Negative Sampling
+- GloVe word vectors
+- Sentiment Classification
+- Debiasing word embeddings
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w2-Optimization/Optimization_methods_v1b.ipynb"> 
+Optimization Methods for Neural Networkfrom scratch</a>
+
+## Week 3:Sequence models & Attention mechanism
+Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should 
+
+- Tuning process
+- Basic Models
+- Picking the most likely sentence
+- Beam Search
+- Refinements to Beam Search
+- Error analysis in beam search
+- Bleu Score (optional)
+- Attention Model Intuition
+- Attention Model
+- Speech recognition
+- Trigger Word Detection
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w3-Batchnormalization%20and%20Tensorflow/TensorFlow_Tutorial_v3b.ipynb">Neural network using tensorflow</a>
