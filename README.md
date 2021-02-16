@@ -140,3 +140,69 @@ Optimization Methods for Neural Networkfrom scratch</a>
 - What is end-to-end deep learning?
 - Whether to use end-to-end deep learning
 - <b>Quiz (case study)</b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).docx">Autonomous driving (case study)</a>
+
+# Course 4: Convolutional Neural Networks
+
+## Week 1: Foundations of Convolutional Neural Networks
+Learn to implement the foundational layers of CNNs (pooling, convolutions) and to stack them properly in a deep network to solve multi-class image classification problems.
+
+- Computer Vision
+- Edge Detection Example
+- More Edge Detection
+- Padding
+- Strided Convolutions
+- Convolutions Over Volume
+- One Layer of a Convolutional Network
+- Simple Convolutional Network Example
+- Pooling Layers
+- CNN Example
+- Why Convolutions?
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w1-Convolution%20model%20_stepby_step/Convolution_model_Step_by_Step_v2a.ipynb">Convolutional Neural Networks: Step by Step (from scratch)</a>
+
+## Week 2:Deep convolutional models: case studies
+Learn about the practical tricks and methods used in deep CNNs straight from the research papers.
+
+- Classic Networks
+- ResNets
+- Why ResNets Work?
+- Networks in Networks and 1x1 Convolutions
+- Inception Network Motivation
+- Inception Network
+- Using Open-Source Implementation
+- Transfer Learning
+- Data Augmentation
+- State of Computer Vision
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w2-Keras%20Tutorial%20Happy%20Face%20Detection/Keras_Tutorial_v2a.ipynb">Keras tutorial - Emotion Detection in Images of Faces</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w2-Residual%20Networks/Residual_Networks_v2a.ipynb">Residual Networks</a>
+
+## Week 3:Object detection
+Learn how to apply your knowledge of CNNs to one of the toughest but hottest field of computer vision: Object detection.
+
+- Object Localization
+- Landmark Detection
+- Object Detection
+- Convolutional Implementation of Sliding Windows
+- Bounding Box Predictions
+- Intersection Over Union
+- Non-max Suppression
+- Anchor Boxes
+- YOLO Algorithm
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w3-Car%20Detection%20for%20Autonomous%20Driving/Autonomous_driving_application_Car_detection_v3a.ipynb">Autonomous driving - Car detection</a>
+
+## Week 4 :Special applications: Face recognition & Neural style transfer
+Discover how CNNs can be applied to multiple fields, including art generation and face recognition. Implement your own algorithm to generate art and recognize faces!
+
+- What is face recognition?
+- One Shot Learning
+- Siamese Network
+- Triplet Loss
+- Face Verification and Binary Classification
+- What is neural style transfer?
+- What are deep ConvNets learning?
+- Cost Function
+- Content Cost Function
+- Style Cost Function
+- 1D and 3D Generalizations
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w4-%20Face%20Verification%20%26Recognition/Face_Recognition_v3a.ipynb">Face Recognition , Face Verification</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Convolution%20Neural%20Networks/w4-Art%20Generation%20with%20Neural%20network/Art_Generation_with_Neural_Style_Transfer_v3a%20(1).ipynb">Deep Learning & Art: Neural Style Transfer</a>
+
