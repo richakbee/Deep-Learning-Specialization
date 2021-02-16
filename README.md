@@ -108,3 +108,34 @@ Optimization Methods for Neural Networkfrom scratch</a>
 - Deep learning frameworks
 - TensorFlow
 - <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w3-Batchnormalization%20and%20Tensorflow/TensorFlow_Tutorial_v3b.ipynb">Neural network using tensorflow</a>
+
+# Course 3: Structuring Machine Learning Projects
+
+## Week 1: ML Strategy (1)
+
+- Why ML Strategy
+- Orthogonalization
+- Single number evaluation metric
+- Satisficing and Optimizing metric
+- Train/dev/test distributions
+- Size of the dev and test sets
+- When to change dev/test sets and metrics
+- Why human-level performance?
+- Avoidable bias
+- Understanding human-level performance,Surpassing human-level performance
+- Improving your model performance
+- <b>Quiz (case study) </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Structuring%20Machine%20Learning%20Projects/Week%201%20Quiz%20-%20Bird%20recognition%20in%20the%20city%20of%20Peacetopia%20(case%20study).docx"> Bird recognition in the city of Peacetopia (case study)</a>
+
+## Week 2: ML Strategy (2)
+
+- Carrying out error analysis
+- Cleaning up incorrectly labeled data
+- Build your first system quickly, then iterate
+- Training and testing on different distributions
+- Bias and Variance with mismatched data distributions
+- Addressing data mismatch
+- Transfer learning
+- Multi-task learning
+- What is end-to-end deep learning?
+- Whether to use end-to-end deep learning
+- <b>Quiz (case study)</b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Structuring%20Machine%20Learning%20Projects/Week%202%20Quiz%20-%20Autonomous%20driving%20(case%20study).docx">Autonomous driving (case study)</a>
