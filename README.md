@@ -1,5 +1,6 @@
 # Deep-Learning-Specialization
 deep learning specialization on  coursera by deeplearning.ai
+<img align="right" src="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/deep%20learning%20logo.jpg"/>
 
 # Course 1: Neural Networks and Deep Learning
 
