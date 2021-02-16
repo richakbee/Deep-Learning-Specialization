@@ -223,10 +223,7 @@ Learn about recurrent neural networks. This type of model has been proven to per
 - Long Short Term Memory (LSTM)
 - Bidirectional RNN
 - Deep RNNs5
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb">Gradient Checking  from scratch </a>
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Initialization/Initialization.ipynb"> Initialization (different types) of Neural Network from scratch </a>
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Regularization/Regularization_v2a.ipynb"> 
-Regularization different types) of Neural Network from scratch</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Sequence%20Models/w1-%20Building%20RNN%20Step%20by%20Step/Building_a_Recurrent_Neural_Network_Step_by_Step_v3b.ipynb">Building your Recurrent Neural Network - Step by Step(from scratch) </a>
 
 ## Week 2:Natural Language Processing & Word Embeddings
 Natural language processing with deep learning is an important combination. Using word vector representations and embedding layers you can train recurrent neural networks with outstanding performances in a wide variety of industries. Examples of applications are sentiment analysis, named entity recognition and machine translation.
@@ -241,8 +238,7 @@ Natural language processing with deep learning is an important combination. Usin
 - GloVe word vectors
 - Sentiment Classification
 - Debiasing word embeddings
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w2-Optimization/Optimization_methods_v1b.ipynb"> 
-Optimization Methods for Neural Networkfrom scratch</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/Sequence%20Models/w2-Word%20vector%20Representation/Operations_on_word_vectors_v2a.ipynb">Operations on word vectors</a>
 
 ## Week 3:Sequence models & Attention mechanism
 Sequence models can be augmented using an attention mechanism. This algorithm will help your model understand where it should 
@@ -258,4 +254,4 @@ Sequence models can be augmented using an attention mechanism. This algorithm wi
 - Attention Model
 - Speech recognition
 - Trigger Word Detection
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w3-Batchnormalization%20and%20Tensorflow/TensorFlow_Tutorial_v3b.ipynb">Neural network using tensorflow</a>
+
