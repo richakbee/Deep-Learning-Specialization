@@ -91,7 +91,8 @@ Regularization different types) of Neural Network from scratch</a>
 - Adam optimization algorithm
 - Learning rate decay
 - The problem of local optima
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w2-Optimization/Optimization_methods_v1b.ipynb"> 
+Optimization Methods for Neural Networkfrom scratch</a>
 
 ## Week 3:Hyperparameter tuning, Batch Normalization and Programming Frameworks (tensorflow)
 
@@ -106,4 +107,4 @@ Regularization different types) of Neural Network from scratch</a>
 - Training a softmax classifier
 - Deep learning frameworks
 - TensorFlow
-- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w3-Batchnormalization%20and%20Tensorflow/TensorFlow_Tutorial_v3b.ipynb">Neural network using tensorflow</a>
