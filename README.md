@@ -5,11 +5,11 @@ deep learning specialization on  coursera by deeplearning.ai
 
 ## Week 1: Introduction to deep learning
 
-Welcome
-What is a neural network?
-Supervised Learning with Neural Networks
-Why is Deep Learning taking off?
-Geoffrey Hinton interview
+- Welcome
+- What is a neural network?
+- Supervised Learning with Neural Networks
+- Why is Deep Learning taking off?
+- Geoffrey Hinton interview
 
 ## Week 2:Neural Networks Basics
 Learn to set up a machine learning problem with a neural network mindset. Learn to use vectorization to speed up your models.
