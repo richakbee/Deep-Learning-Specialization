@@ -29,6 +29,7 @@ Learn to set up a machine learning problem with a neural network mindset. Learn 
 - A note on python/numpy vectors
 - Explanation of logistic regression cost function 
 - Pieter Abbeel interview
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w2-Logisitc%20Regression%20as%20Neural%20Network/Logistic_Regression_with_a_Neural_Network_mindset_v6a.ipynb"> Logistic Regression with a Neural Network mindset</a>
 
 ## Week 3:Shallow neural networks
 Learn to build a neural network with one hidden layer, using forward propagation and backpropagation.
@@ -41,6 +42,7 @@ Learn to build a neural network with one hidden layer, using forward propagation
 - Gradient descent for Neural Networks
 - Backpropagation intuition
 - Random Initialization
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w3-Planar%20data%20classfication%20with%20one%20hidden%20layer/Planar_data_classification_with_onehidden_layer_v6c.ipynb">Planar data classification with one hidden layer</a>
 
 ## Week 4 :Deep Neural Networks
 Understand the key computations underlying deep learning, use them to build and train deep neural networks, and apply it to computer vision.
@@ -52,3 +54,5 @@ Understand the key computations underlying deep learning, use them to build and 
 - Building blocks of deep neural networks
 - Forward and Backward Propagation
 - Parameters vs Hyperparameters
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Build%20your%20Deep%20Neural%20Network%20step%20by%20step/Building_your_Deep_Neural_Network_Step_by_Step_v8a.ipynb">Building your Deep Neural Network: Step by Step</a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/1.%20Neural%20Networks%20and%20Deep%20Learning/w4-Deep%20NN%20application%20(Image%20Classification)/Deep%2BNeural%2BNetwork%2B-%2BApplication%2Bv8.ipynb">Deep Neural Network for Image Classification: Application</a>
