@@ -74,6 +74,10 @@ Understand the key computations underlying deep learning, use them to build and 
 - Weight Initialization for Deep Networks
 - Numerical approximation of gradients
 - Gradient checking
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1Gradient%20Checking/Gradient%2BChecking%2Bv1.ipynb">Gradient Checking  from scratch </a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Initialization/Initialization.ipynb"> Initialization (different types) of Neural Network from scratch </a>
+- <b>Assignment </b> :<a href="https://github.com/richakbee/Deep-Learning-Specialization/blob/main/2.%20Improving%20deep%20Neural%20Networks(Hyperparameter%20tuning%2CRegularization%20and%20Optimization)/w1-Regularization/Regularization_v2a.ipynb"> 
+Regularization different types) of Neural Network from scratch</a>
 
 ## Week 2:Optimization algorithms
 
